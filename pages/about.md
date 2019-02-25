@@ -7,6 +7,7 @@ intro_paragraph: |
   This is a page dedicated to showing all of the teams competing in the Call of
   Duty World League. There are two divisions represented in the league that are
   known as Division A and Division B. These divisions are split up into 8 teams each.
+  The teams will be displayed below with an option to view their roster.
   This is an example of a standard Jekyll page. You can edit it with Netlify
   CMS, accessible at `/admin/index.html` or by editing `pages/about.md` in a text editor.
 ---
