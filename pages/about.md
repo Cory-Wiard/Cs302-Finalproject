@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Teams
-permalink: /team
-section: team
+title: About
+permalink: /about
+section: about
 intro_paragraph: |
   This is a page dedicated to showing all of the teams competing in the Call of
   Duty World League. There are two divisions represented in the league that are
