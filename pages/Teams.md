@@ -2,7 +2,7 @@
 layout: teams
 title: Teams
 permalink: /teams
-section: contact
+section: team
 intro_paragraph: |-
 
 ---
