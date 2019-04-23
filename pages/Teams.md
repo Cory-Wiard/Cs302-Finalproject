@@ -1,8 +1,8 @@
 ---
-layout: OpticGaming
-title: Optic-Gaming
-permalink: /teams/OpticGaming
-section: OpticGaming
+layout: teams
+title: Teams
+permalink: /teams
+section: team
 intro_paragraph: |-
 
 ---
