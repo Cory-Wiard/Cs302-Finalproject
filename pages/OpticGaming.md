@@ -1,6 +1,6 @@
 ---
 layout: OpticGaming
-title: Optic-Gaming
+title: Optic Gaming
 permalink: /OpticGaming
 section: OpticGaming
 intro_paragraph: |-
