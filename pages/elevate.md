@@ -1,5 +1,5 @@
 ---
-layout: Elevate
+layout: elevate
 title: Elevate
 permalink: /Elevate
 section: Elevate
