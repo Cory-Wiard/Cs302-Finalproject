@@ -1,5 +1,5 @@
 ---
-layout: Envy
+layout: envy
 title: Team Envy
 permalink: /TeamEnvy
 section: TeamEnvy
