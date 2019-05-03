@@ -1,7 +1,7 @@
 ---
 layout: envy
 title: Team Envy
-permalink: /TeamEnvy
+permalink: /envy
 section: TeamEnvy
 intro_paragraph: |-
 ---
