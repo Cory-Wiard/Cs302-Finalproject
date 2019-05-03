@@ -44,6 +44,49 @@ tbody tr:nth-child(even) {
 tbody tr:nth-child(odd) {
   background-color: white;
 }
+@media
+only screen and (max-width: 1500px) {
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+  thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  tr { border: 1px solid #ccc; }
+  td {
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 200px;
+    margin-left: 150px;
+  }
+  td:before {
+    position: absolute;
+    top: 12px;
+    left: 6px;
+    width: 200px;
+    padding-right: 40px;
+    white-space: nowrap;
+    margin-left: -150px;
+  }
+  td:nth-of-type(1):before { content: "Team"; }
+  td:nth-of-type(2):before { content: "Wins"; }
+  td:nth-of-type(3):before { content: "Loses"; }
+  td:nth-of-type(4):before { content: "Win Percentage";}
+  td:nth-of-type(5):before { content: "Maps Won"; }
+  td:nth-of-type(6):before { content: "Maps Lost"; }
+  td:nth-of-type(7):before { content: "Percentage"; }
+  td:nth-of-type(8):before { content: ""; }
+  td:nth-of-type(9):before { content: "Wins"; }
+  td:nth-of-type(10):before { content: "Loses"; }
+  td:nth-of-type(11):before { content: "Win Percentage"; }
+  td:nth-of-type(12):before { content: "Maps Won"; }
+  td:nth-of-type(13):before { content: "Maps Lost"; }
+  td:nth-of-type(14):before { content: "Percentage"; }
+
+}
 </style>
 
 <h1>{{ page.title }}</h1>
