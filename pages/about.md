@@ -1,6 +1,7 @@
 ---
 layout: About
 title: About
-permalink: /About
+permalink: /about
 section: About
 intro_paragraph: |-
+---
